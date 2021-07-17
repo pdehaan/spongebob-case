@@ -1,0 +1,28 @@
+{
+  "name": "spongebob-case",
+  "description": "PlEaSe eNtEr a dEsCrIpTiOn.",
+  "version": "1.0.0",
+  "author": "Peter deHaan",
+  "bugs": {
+    "url": "https://github.com/pdehaan/spongebob-case/issues"
+  },
+  "files": [
+    "lib.js"
+  ],
+  "homepage": "https://github.com/pdehaan/spongebob-case#readme",
+  "keywords": [
+    "spongebob",
+    "squarepants",
+    "tostring"
+  ],
+  "license": "MPL-2.0",
+  "main": "lib.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/spongebob-case.git"
+  },
+  "scripts": {
+    "start": "node lib",
+    "test": "node test"
+  }
+}
