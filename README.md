@@ -13,7 +13,7 @@ npm i pdehaan/spongebob-case
 ## USAGE
 
 ```js
-const toSpongeBobCase = reqiure("spongebob-case");
+const toSpongeBobCase = require("spongebob-case");
 
 console.log(toSpongeBobCase("Who lives in a pineapple under the sea?"));
 ```
